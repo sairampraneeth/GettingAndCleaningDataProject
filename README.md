@@ -9,7 +9,7 @@ The Repository contains the following files :-
 
 3. "CodeBook.md" file which describes the data sets as well as the transformations performed on the data sets to acquire the tidy data set.
 
-## Steps Required for getting clean data set
+## Steps Required for getting clean and tidy data set
 
 1. Merge the training and the test sets to create one data set.
 2. Extract only the measurements on the mean and standard deviation for each measurement.
@@ -23,8 +23,11 @@ DataSet Link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI
 
 ## Instructions for running the Script
 Download the "run_analysis.R" script and run it in the current working directory of R using the source("run_analysis.R") command which will automatically do the following:
+
 1. Download the DataSet from the above link and then unzip the data automatically.
+
 2. Merge and Clean as per the requirements mentioned above.
+
 3. Write the Tidy Dataset to a new file called "TidyData.txt" which will appear in the current working directory of R.
 
 ## Output Data
