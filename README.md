@@ -1,4 +1,4 @@
-# SAIRAM PRANEETH VEGESANA - Getting and Cleaning Data Products
+# SAIRAM PRANEETH VEGESANA - Getting and Cleaning Data
 
 ## Github Repository Files
 The Repository contains the following files :- 
