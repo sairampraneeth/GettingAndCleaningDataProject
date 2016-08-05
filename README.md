@@ -24,11 +24,11 @@ DataSet Link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI
 ## Instructions for running the Script
 Download the "run_analysis.R" script and run it in the current working directory of R using the source("run_analysis.R") command which will automatically do the following:
 
-1. Download the DataSet from the above link and then unzip the data automatically.
+1. Downloads the DataSet from the above link and then unzips the data automatically.
 
-2. Merge and Clean as per the requirements mentioned above.
+2. Merges and Cleans the Dataset as per the requirements mentioned above.
 
-3. Write the Tidy Dataset to a new file called "TidyData.txt" which will appear in the current working directory of R.
+3. Writes the Tidy Dataset to a new file called "TidyData.txt" which will appear in the current working directory of R.
 
 ## Output Data
 The Output File of the tidy Dataset is "run_analysis.R"
