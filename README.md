@@ -31,4 +31,4 @@ Download the "run_analysis.R" script and run it in the current working directory
 3. Writes the Tidy Dataset to a new file called "TidyData.txt" which will appear in the current working directory of R.
 
 ## Output Data
-The Output File of the tidy Dataset is "run_analysis.R"
+The Output File of the tidy Dataset is "TidyData.txt"
